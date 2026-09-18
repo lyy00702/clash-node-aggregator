@@ -20,13 +20,13 @@
 生成后的订阅地址：
 
 ```text
-https://raw.githubusercontent.com/lyy00702/clash-node-aggregator/main/dist/clash.yaml
+https://github.com/lyy00702/clash-node-aggregator/raw/main/dist/clash.yaml
 ```
 
-如果 raw 地址访问不稳定，可尝试：
+如果该地址访问不稳定，可尝试：
 
 ```text
-https://github.com/lyy00702/clash-node-aggregator/raw/refs/heads/main/dist/clash.yaml
+https://raw.githubusercontent.com/lyy00702/clash-node-aggregator/main/dist/clash.yaml
 ```
 
 在 Clash Verge 中：
